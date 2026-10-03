@@ -1,0 +1,62 @@
+Gene,Pathway,Log2_Fold_Change,p_value,Tissue,neg_log10_p,Status
+PIN2,Auxin Transport,-2.15,0.0001,Root Apical Meristem,4.0,Downregulated (Disrupted Transport/Niche)
+PIN3,Auxin Transport,-1.85,0.0004,Root Apical Meristem,3.3979400086720375,Downregulated (Disrupted Transport/Niche)
+PIN7,Auxin Transport,-1.92,0.0002,Root Apical Meristem,3.6989700043360187,Downregulated (Disrupted Transport/Niche)
+AUX1,Auxin Transport,-1.45,0.0021,Root Apical Meristem,2.677780705266081,Downregulated (Disrupted Transport/Niche)
+LAZY1,Auxin Transport,-2.3,5e-05,Root Apical Meristem,4.301029995663981,Downregulated (Disrupted Transport/Niche)
+ARF7,Auxin Signaling,1.65,0.0012,Elongation Zone,2.9208187539523753,Upregulated (Space Stress/Remodeling)
+ARF19,Auxin Signaling,1.58,0.0018,Elongation Zone,2.744727494896694,Upregulated (Space Stress/Remodeling)
+PABA_Syn,Hormone Cross-Talk,2.1,0.0003,Root Apical Meristem,3.5228787452803374,Upregulated (Space Stress/Remodeling)
+EIN2,Ethylene Signaling,1.75,0.0008,Elongation Zone,3.0969100130080562,Upregulated (Space Stress/Remodeling)
+WUS,Meristem Maintenance,-1.72,0.0006,Shoot Apical Meristem,3.2218487496163566,Downregulated (Disrupted Transport/Niche)
+WOX4,Meristem Maintenance,-1.68,0.0009,Shoot Apical Meristem,3.0457574905606752,Downregulated (Disrupted Transport/Niche)
+CLV3,Meristem Maintenance,1.25,0.015,Shoot Apical Meristem,1.8239087409443189,Not Significant
+GRF1,Meristem Proliferation,-1.55,0.0031,Shoot Apical Meristem,2.5086383061657274,Downregulated (Disrupted Transport/Niche)
+GRF4,Meristem Proliferation,-1.48,0.0045,Shoot Apical Meristem,2.3467874862246565,Downregulated (Disrupted Transport/Niche)
+ATHB15,Meristem Maintenance,-1.8,0.0005,Shoot Apical Meristem,3.3010299956639813,Downregulated (Disrupted Transport/Niche)
+XTH1,Cell Wall Remodeling,2.45,2e-05,Elongation Zone,4.698970004336019,Upregulated (Space Stress/Remodeling)
+EXPA1,Cell Wall Remodeling,2.18,0.0001,Elongation Zone,4.0,Upregulated (Space Stress/Remodeling)
+Ivr2,Sugar Metabolism,1.95,0.0004,Elongation Zone,3.3979400086720375,Upregulated (Space Stress/Remodeling)
+GST1,Oxidative Stress,2.6,1e-05,Root Apical Meristem,5.0,Upregulated (Space Stress/Remodeling)
+PRX5,Oxidative Stress,2.35,4e-05,Shoot Apical Meristem,4.3979400086720375,Upregulated (Space Stress/Remodeling)
+CesA1,Cellulose Synthesis,-1.95,0.0003,Elongation Zone,3.5228787452803374,Downregulated (Disrupted Transport/Niche)
+ACT2,Housekeeping,0.12,0.65,All Tissues,0.1870866433571444,Not Significant
+TUB4,Housekeeping,-0.08,0.78,All Tissues,0.10790539730951959,Not Significant
+UBQ10,Housekeeping,0.05,0.89,All Tissues,0.0506099933550872,Not Significant
+GAPDH,Housekeeping,-0.15,0.52,All Tissues,0.2839966563652008,Not Significant
+EF1A,Housekeeping,0.02,0.94,All Tissues,0.026872146400301365,Not Significant
+GENE_BG_01,Protein Transport,-0.2200937956655798,0.7517219002454923,Shoot Apical Meristem,0.12394279707700989,Not Significant
+GENE_BG_02,Protein Transport,0.2061732289801629,0.45124947756823197,Elongation Zone,0.34558328788820336,Not Significant
+GENE_BG_03,Protein Transport,-0.8043851558978512,0.1785801361297467,Elongation Zone,0.7481668503131496,Not Significant
+GENE_BG_04,Lipid Biosynthesis,-0.19712136998537128,0.10077042112439022,Root Apical Meristem,0.9966669264975528,Not Significant
+GENE_BG_05,Lipid Biosynthesis,0.5849512481384069,0.056359674697745665,Shoot Apical Meristem,1.2490315222585955,Not Significant
+GENE_BG_06,Primary Metabolism,0.6154859870458392,0.5222971942325502,Elongation Zone,0.28208230717582256,Not Significant
+GENE_BG_07,Lipid Biosynthesis,-0.10041758723431066,0.6065474083997786,Elongation Zone,0.21713524854553443,Not Significant
+GENE_BG_08,Photosynthesis,-0.06554684659790808,0.5831731119758382,Elongation Zone,0.23420250799206796,Not Significant
+GENE_BG_09,Primary Metabolism,-0.46039743096892116,0.10854643368675157,Shoot Apical Meristem,0.9643844408010656,Not Significant
+GENE_BG_10,Photosynthesis,0.1502792073382688,0.5569593960609853,Root Apical Meristem,0.2541764649868259,Not Significant
+GENE_BG_11,Primary Metabolism,0.31167705380600186,0.5989969920043589,Elongation Zone,0.22257535851083654,Not Significant
+GENE_BG_12,Protein Transport,-0.4404391025399334,0.8683883618709038,Root Apical Meristem,0.06128600558739567,Not Significant
+GENE_BG_13,Photosynthesis,-0.17869658838925842,0.2371474965813699,Root Apical Meristem,0.6249814555646523,Not Significant
+GENE_BG_14,Primary Metabolism,0.6096966531420825,0.9226261649881027,Root Apical Meristem,0.03497423328636576,Not Significant
+GENE_BG_15,Photosynthesis,0.2953866319981642,0.12964325184672754,Elongation Zone,0.8872500840778271,Not Significant
+GENE_BG_16,Photosynthesis,0.0685473124759882,0.09070456001948426,Shoot Apical Meristem,1.0423708789650632,Not Significant
+GENE_BG_17,Photosynthesis,0.10539441609208405,0.5780760490974634,Shoot Apical Meristem,0.23801502398293398,Not Significant
+GENE_BG_18,Photosynthesis,0.6567084464056304,0.5963308229180162,Shoot Apical Meristem,0.2245127424281101,Not Significant
+GENE_BG_19,Primary Metabolism,-0.3373679693437139,0.06407276606707454,Shoot Apical Meristem,1.1933265268004534,Not Significant
+GENE_BG_20,Photosynthesis,-0.20533016215886649,0.4053933663580127,Elongation Zone,0.3921233621493768,Not Significant
+GENE_BG_21,Protein Transport,0.2545220433380681,0.7611579864780851,Elongation Zone,0.11852519141009756,Not Significant
+GENE_BG_22,Primary Metabolism,-0.36268826743197197,0.883670790662014,Root Apical Meristem,0.053709500176787627,Not Significant
+GENE_BG_23,Primary Metabolism,-0.3585340732517208,0.3837364269784397,Root Apical Meristem,0.41596697253785747,Not Significant
+GENE_BG_24,Photosynthesis,-0.04479512820277664,0.6493301209557469,Root Apical Meristem,0.18753445072117844,Not Significant
+GENE_BG_25,Protein Transport,-0.817769208727966,0.9245408858501933,Elongation Zone,0.03407387833228306,Not Significant
+GENE_BG_26,Primary Metabolism,0.4277923544787721,0.6995565690483859,Elongation Zone,0.15517716089736636,Not Significant
+GENE_BG_27,Protein Transport,-0.24595030376692428,0.445402851679193,Elongation Zone,0.35124700673491044,Not Significant
+GENE_BG_28,Protein Transport,0.13315697619557182,0.8561872361061674,Shoot Apical Meristem,0.06743125084179126,Not Significant
+GENE_BG_29,Photosynthesis,0.7177123372034344,0.17539830896528813,Elongation Zone,0.7559745980314624,Not Significant
+GENE_BG_30,Primary Metabolism,0.23227581669201045,0.5358569821715058,Shoot Apical Meristem,0.27095110609394507,Not Significant
+GENE_BG_31,Photosynthesis,0.05430153179059452,0.6753064397357341,Root Apical Meristem,0.1704991088191937,Not Significant
+GENE_BG_32,Lipid Biosynthesis,0.24323586480038462,0.7773083416079752,Shoot Apical Meristem,0.10940667168101038,Not Significant
+GENE_BG_33,Primary Metabolism,0.10284674802251176,0.21791305299743224,Root Apical Meristem,0.6617167547240438,Not Significant
+GENE_BG_34,Lipid Biosynthesis,0.1258051583452687,0.5354080177240856,Root Apical Meristem,0.2713151295494301,Not Significant
+GENE_BG_35,Protein Transport,-0.12371541857783107,0.1490467320749091,Shoot Apical Meristem,0.8266775416534433,Not Significant
